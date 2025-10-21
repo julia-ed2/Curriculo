@@ -26,12 +26,12 @@ Este projeto foi desenvolvido como trabalho para a disciplina **Algoritmos e Té
 
 1. Execute o arquivo `curriculo.py` em um terminal Python.
 2. Responda às perguntas para preencher as informações do currículo.
-3. O programa irá gerar um arquivo `Curriculo.html` estilizado com as informações fornecidas.
+3. O programa irá gerar um arquivo `index.html` estilizado com as informações fornecidas.
 
 ## Estrutura do Projeto
 
 - `curriculo.py` — Código principal em Python.
 - `styles.css` — Arquivo de estilos CSS para o currículo.
-- `Curriculo.html` — Currículo gerado automaticamente.
+- `index.html` — Currículo gerado automaticamente.
 - Arquivos auxiliares (`Imagem.txt`, `Nomes.txt`, etc.) — Usados internamente para armazenar as informações temporariamente.
 
