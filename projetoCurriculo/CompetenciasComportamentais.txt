@@ -1,1 +1,0 @@
-<div class = "competencias"> <ul><li>Adaptabilidade</li><li>Atenção aos detalhes</li><li>Proatividade</li><li>Comunicação clara</li><li>Colaboração em equipe</li></ul></div>

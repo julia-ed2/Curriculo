@@ -1,1 +1,0 @@
-<div class = "foto"><img src="fotoPerfil.jpg"></div>
