@@ -1,0 +1,1 @@
+<div class = "projetos"><h3>Escalar</h3><p>Projeto Integrador da faculdade que faz a gestão de escalas de plantão. Tecnologias utilizadas: HTML, CSS, Bootstrap, Python, SQL</p></div>
